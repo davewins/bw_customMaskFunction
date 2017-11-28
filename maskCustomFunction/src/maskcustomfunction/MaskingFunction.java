@@ -27,7 +27,6 @@ public class MaskingFunction {
 					String strToLeave = stringToMask.substring(charactersToMask,stringToMask.length());
 					if (debugMode) System.out.println("strToLeave: " + strToLeave);
 					replacedStr = replacedStr + strToLeave;			
-					//if (debugMode) System.out.println("Finale: " + replacedStr + strToLeave);
 				} else
 				{
 					//String is less than the amount to leave alone, so just mask the lot
