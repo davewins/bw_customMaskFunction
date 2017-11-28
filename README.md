@@ -27,4 +27,4 @@ The function takes a String as input, an optional Masking character ("*" is defa
 Using the Mask Functions in the TIBCO BusinessWorks Mapper:
 ![logo]
 
-[logo]: https://github.com/davewins/bw_customerMaskFunction/blob/master/MaskingFunction.png "BW Mapper"
+[logo]: https://github.com/davewins/bw_customMaskFunction/blob/master/MaskingFunction.png "BW Mapper"
