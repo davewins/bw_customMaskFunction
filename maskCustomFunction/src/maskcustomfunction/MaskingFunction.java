@@ -29,7 +29,7 @@ public class MaskingFunction {
 					replacedStr = replacedStr + strToLeave;			
 				} else
 				{
-					//String is less than the amount to leave alone, so just mask the lot
+					 //String is less than the amount to leave alone, so just mask the lot
 					replacedStr = stringToMask.replaceAll(".", maskingCharacter);
 				}
 	
